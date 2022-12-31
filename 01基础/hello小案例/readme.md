@@ -32,3 +32,4 @@ vue的特点是什么？
 同理，如果有多对一，多个div绑定了一个vue对象，那么就只有第一个div容器是可以和vue对象形成对应关系的，后面的div容器都无法和vue对象进行联系。
 
 以上代码结果如下：
+![image](https://user-images.githubusercontent.com/68628311/210136612-f4961589-9a78-48be-b98f-625d37f58a43.png)
