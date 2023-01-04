@@ -9,3 +9,5 @@
 [es6相关知识](https://github.com/thanyi/Vue_learn/blob/master/01%E5%9F%BA%E7%A1%80/ES6%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/readme.md)
 
 [事件绑定](https://github.com/thanyi/Vue_learn/blob/master/01%E5%9F%BA%E7%A1%80/%E4%BA%8B%E4%BB%B6%E5%A4%84%E7%90%86.md)
+
+[计算属性和监听属性](https://github.com/thanyi/Vue_learn/blob/master/01%E5%9F%BA%E7%A1%80/%E8%AE%A1%E7%AE%97%E5%B1%9E%E6%80%A7%E5%92%8C%E4%BE%A6%E5%90%AC%E5%B1%9E%E6%80%A7.md)
